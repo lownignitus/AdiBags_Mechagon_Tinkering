@@ -15,6 +15,7 @@ Requires AdiBags to work!
 * 166970 Energy Cell
 * 166971 Empty Energy Cell
 * 167562 Ionized Minnow
+* 168262 Sentry Fish
 * 168327 Chain Ignitercoil
 * 168832 Galvanic Oscillator
 * 169610 S.P.A.R.E. Crate

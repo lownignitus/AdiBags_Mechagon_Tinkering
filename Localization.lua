@@ -19,6 +19,16 @@ elseif locale == "enUS" then
 	L["Mechagon Tinkering Parts & Items."] = true
 	L["Tinkering Parts"] = true
 	L["Display Tinkering Parts"] = true
+	L["Mechagon Boxes"] = true
+	L["Display Mechagon Boxes"] = true
+	L["Item Blueprints"] = true
+	L["Display Item Blueprints"] = true
+	L["Mount Paints"] = true
+	L["Display Mount Paints"] = true
+	L["Mechagon Minis"] = true
+	L["Display Mechagon Minis"] = true
+	L["Mechagon Misc"] = true
+	L["Display Mechagon Misc"] = true
 elseif locale == "esES" then
 --Translation missing
 elseif locale == "esMX" then

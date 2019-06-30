@@ -30,6 +30,10 @@ local parts = {
 	168327, --Chain Ignitercoil
 	168832, --Galvanic Oscillator
 	169610, --S.P.A.R.E. Crate
+	168217, --Hardened Spring
+	168215, --Machined Gear Assembly
+	168216, --Tempered Plating
+	168946, --Bundle of Recyclable Parts
 }
 
 local function MatchIDs_Init(self)

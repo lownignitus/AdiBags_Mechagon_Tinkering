@@ -1,6 +1,6 @@
 --[[
 Title: AdiBags - Mechagon Tinkering
-Version: v1.0.3
+Version: v1.0.4
 Author LownIgnitus - Mihkael-Alexstrasza
 Add various Mechagon Tinkering items to AdiBags filter groups
 ]]

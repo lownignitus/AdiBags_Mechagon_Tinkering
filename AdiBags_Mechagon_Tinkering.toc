@@ -1,9 +1,10 @@
-## Interface: 90001
+## Interface: 90002
 ## Title: |cff00ff00AdiBags - Mechagon Tinkering|r
-## Version: v1.0.5
+## X-Curse-Project-ID: 310449
+## Version: v1.0.6
 ## Author: |cffDA70D6LownIgnitus|r aka Mihkael-Alexstrasza
 ## Notes: Add various Fishing items to AdiBags filter groups
-## X-Date: 13/10/2020
+## X-Date: 12021/02/05
 ## X-Website: https://github.com/lownignitus/AdiBags_Mechagon_Tinkering
 ## X-Category: Bags & Inventory
 ## Dependancies: AdiBags

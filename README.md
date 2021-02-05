@@ -5,7 +5,7 @@ All items are broken down into categories, with itemID followed by the Item name
 
 Using these ItemIDs it filters them into a Mechagon Tinkering group. 
 
-Latest version: v1.0.5
+Latest version: v1.0.6
 
 Requires AdiBags to work!
 
